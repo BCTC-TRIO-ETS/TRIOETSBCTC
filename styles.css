@@ -705,6 +705,19 @@ html, body {
   flex-wrap: wrap; 
 }
 
+.source-links {
+  font-family: 'Quicksand', sans-serif;
+  background-color: #cc272f;
+  font-size: 15px;
+  color: white;
+  padding: 8px 3px;
+  border-radius: 6px;
+  font-weight: 700;
+  cursor: pointer;
+  border: none;
+  transition: 0.3s ease;
+}
+
 .section-image img {
   width: 100%;
   max-width: 600px;
