@@ -102,6 +102,7 @@ html, body {
 .nav-links {
   list-style: none;
   display: flex;
+  max-width: ;
   gap: 15px;
   margin: 0;
   padding: 0;
@@ -116,7 +117,7 @@ html, body {
 .nav-links a {
   background-color: white;
   font-family: 'Coolvetica', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   letter-spacing: 1px;
   color: black;
   text-decoration: none;
@@ -667,7 +668,6 @@ html, body {
 }
 
 .reg-btn {
-  display: inline-block;
   margin-top: 15px;
   padding: 10px 18px;
   background: #109a94;
