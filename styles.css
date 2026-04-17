@@ -117,7 +117,7 @@ html, body {
 .nav-links a {
   background-color: white;
   font-family: 'Coolvetica', sans-serif;
-  font-size: 15px;
+  font-size: 18px;
   letter-spacing: 1px;
   color: black;
   text-decoration: none;
@@ -354,6 +354,9 @@ html, body {
   .hero-address {
     display: none;
   }
+  .nav-links a {
+  font-size: 10px;
+}
   .hero-overlay {
     justify-content: center;
     align-items: center;
@@ -374,9 +377,7 @@ html, body {
   .nav-links {
     display: flex;
   }
-  .nav-links a {
-  font-size: 10px;
-  }
+  
   .hamburger {
     display: none;
   }
@@ -392,6 +393,9 @@ html, body {
     width: 100%;
     margin-top: 10px;
   }
+  .nav-links a {
+  font-size: 10px;
+}
   .hamburger {
     display: block;
   }
