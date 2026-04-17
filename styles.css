@@ -374,6 +374,9 @@ html, body {
   .nav-links {
     display: flex;
   }
+  .nav-links a {
+  font-size: 10px;
+  }
   .hamburger {
     display: none;
   }
